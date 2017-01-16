@@ -1,4 +1,5 @@
 wiki/diary/*
+bin/*
 
 *.dcm
 *.torrent
