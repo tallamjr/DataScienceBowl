@@ -1,7 +1,13 @@
 === DATA SCIENCE BOWL ===
 
-Tutorials
----------
+Tutorials & Kaggle Forum/Discussion
+-----------------------------------
+
+DICOM to 3D numpy arrays
+https://www.kaggle.com/rmchamberlain/data-science-bowl-2017/dicom-to-3d-numpy-arrays/discussion
+
+Deep Learning Cloud Setups
+https://www.kaggle.com/c/data-science-bowl-2017/forums/t/27762/deep-learning-cloud-setups
 
 DSB3 Tutorial - KAGGLE
 https://www.kaggle.com/c/data-science-bowl-2017/details/tutorial
