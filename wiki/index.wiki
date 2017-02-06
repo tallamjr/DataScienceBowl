@@ -1,5 +1,12 @@
 === DATA SCIENCE BOWL ===
 
+= TODO =
+
+1. Explore data more. Get to know file format and features one could use
+2. Go over tensorflow tutorials for deepcars and watch on youtube
+3. Develop script that spawns GPU EC2 for analysis
+4. Start developing model. Training a network.
+
 Tutorials & Kaggle Forum/Discussion
 -----------------------------------
 
