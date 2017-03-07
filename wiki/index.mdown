@@ -1,6 +1,6 @@
-=== DATA SCIENCE BOWL ===
+# DATA SCIENCE BOWL
 
-= TODO =
+## TODO
 
 1. Explore data more. Get to know file format and features one could use
 2. Go over tensorflow tutorials for deepcars and watch on youtube
@@ -10,8 +10,8 @@
 Tutorials & Kaggle Forum/Discussion
 -----------------------------------
 
-DICOM to 3D numpy arrays
-https://www.kaggle.com/rmchamberlain/data-science-bowl-2017/dicom-to-3d-numpy-arrays/discussion
+[DICOM to 3D numpy arrays](
+https://www.kaggle.com/rmchamberlain/data-science-bowl-2017/dicom-to-3d-numpy-arrays/discussion)
 
 Deep Learning Cloud Setups
 https://www.kaggle.com/c/data-science-bowl-2017/forums/t/27762/deep-learning-cloud-setups
