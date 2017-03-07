@@ -1,5 +1,6 @@
 wiki/diary/*
 bin/*
+data/*
 
 *.dcm
 *.torrent
